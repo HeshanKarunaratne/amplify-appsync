@@ -24,10 +24,10 @@ const awsmobile = {
     "aws_cognito_verification_mechanisms": [
         "EMAIL"
     ],
-    "aws_appsync_graphqlEndpoint": "https://iraz6rmuung47klzsg4ic6tg3e.appsync-api.us-east-1.amazonaws.com/graphql",
+    "aws_appsync_graphqlEndpoint": "https://dlm3ryvpgncklmxbjg3hh3r3ei.appsync-api.us-east-1.amazonaws.com/graphql",
     "aws_appsync_region": "us-east-1",
     "aws_appsync_authenticationType": "API_KEY",
-    "aws_appsync_apiKey": "da2-f6g4zgnjujdore44dpqddzxhku"
+    "aws_appsync_apiKey": "da2-cyv6t54warf6fng3wzzdd7joci"
 };
 
 

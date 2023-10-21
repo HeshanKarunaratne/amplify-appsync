@@ -24,7 +24,6 @@ export class TodoComponent implements OnInit {
 
     let result = await this.api.CreateTodo(newTodo);
     this.allTodos.push(result);
-    debugger;
   }
 
   async listTodos() {

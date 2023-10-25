@@ -18,7 +18,7 @@
     }
   },
   "auth": {
-    "amplifyappsync3b8a1b93": {
+    "amplifyappsynca1b1b6b7": {
       "customAuth": false,
       "dependsOn": [],
       "frontendAuthConfig": {
@@ -42,5 +42,6 @@
       "providerPlugin": "awscloudformation",
       "service": "Cognito"
     }
-  }
+  },
+  "function": {}
 }
